@@ -8,7 +8,7 @@
 
         <indexes>
             <index name="name_idx" columns="name"/>
-            <index name="prefix_idx" columns="staticPrefix"/>
+            <index name="prefix_idx" columns="static_prefix"/>
         </indexes>
     </mapped-superclass>
 
